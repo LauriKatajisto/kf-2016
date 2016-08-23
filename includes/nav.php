@@ -1,7 +1,7 @@
 <!-- sidebar -->
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
         	<div>
-    	    	<img class="img-responsive" src="images/logo2.jpg" alt="K&amp;F Logo" />
+    	    	<img class="img-responsive" src="images/logo_uusi.jpg" alt="K&amp;F Logo" />
 	        </div>
             <ul class="nav">
               <li><a href="index.php"><i class="fa fa-home"></i>&nbsp;&nbsp;Etusivu</a></li>

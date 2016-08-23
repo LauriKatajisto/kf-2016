@@ -3,6 +3,11 @@ body {
   font-family: 'Lato', sans-serif;
   background-color: hsl(196,12%,93%);
 }
+
+a{
+  color: hsl(213, 98%, 22%);
+}
+
 .text-center {
   padding-top: 20px;
 }
@@ -17,7 +22,8 @@ body {
 #sidebar .nav {
   margin-top: 10px;
   width: 95%;
-  background-color: hsl(196,100%,41.2%);
+  /*background-color: hsl(196,100%,41.2%);*/
+  background-color: hsl(213, 98%, 22%);
   color: white;
 }
 
@@ -26,7 +32,8 @@ color: white;
 }
 
 #sidebar .nav a:focus, #sidebar .nav a:hover{
-background-color: hsl(196,100%,28%);
+/*background-color: hsl(196,100%,28%);*/
+background-color: hsl(213, 96%, 36%);
 }
 
 
@@ -38,7 +45,8 @@ background-color: hsl(196,100%,28%);
 #sidebar li.valiotsikko{
   background-color: white;
   font-weight: bold;
-  color: hsl(196,100%,41.2%);
+  /*color: hsl(196,100%,41.2%);*/
+  color: hsl(213, 98%, 22%);
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 15px;
@@ -56,7 +64,7 @@ p{
 }
 
 .logo{
-  
+
   margin-bottom: 10px;
   margin-left: 30px;
 
@@ -206,7 +214,8 @@ p{
     padding-top:0;
   }
   .mainarea{
-    background-color: hsl(196,100%,41.2%);
+    /*background-color: hsl(196,100%,41.2%);*/
+    background-color: hsl(213, 98%, 22%);
     background-image: none;
     color: white;
     padding-left: 10px;
@@ -216,7 +225,3 @@ p{
   }
 
 }
-
-
-
-
