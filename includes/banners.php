@@ -7,7 +7,7 @@
 
       	<div class="hidden-xs col-sm-6 banners">
 			 <a href="http://www.fitnessexpo.fi/">
-			     <img width="350" class="center-block" src="images/fitness_expo_banneri_vaaka.png"/>
+			     <img class="center-block" width="120" src="images/nfe.png"/>
 			</a>
   		  </div>
         	<div class="hidden-xs col-sm-2 banners">
@@ -15,6 +15,6 @@
     	    		<img src="images/gpf_banneri.gif"/>
 	        	</a>
   		</div>
-      	
-		
+
+
       </div>
