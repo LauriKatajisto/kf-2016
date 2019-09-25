@@ -64,10 +64,9 @@ header("Location: kiitos.php");
               <label for="inputOrderType" class="col-sm-2 control-label">Tilaustyyppi</label>
               <div class="col-sm-10">
                 <select name="tyyppi" class="form-control" id="inputOrderType">
-                  <option value="kotiin">Kotiin 19 euroa / vuosi</option>
-                  <option value="yritykseen30">Yritykseen 30-100 kpl nippuina 69 euroa / vuosi</option>
-                  <option value="yritykseen100">Yritykseen 101-250 kpl nippuina 79 euroa / vuosi</option>
-                  <option value="yritykseen250">Yritykseen yli 250 kpl nippuina 99 euroa / vuosi</option>
+                  <option value="yritykseen30">Yritykseen 30-100 kpl nippuina 99 euroa / vuosi</option>
+                  <option value="yritykseen100">Yritykseen 101-250 kpl nippuina 119 euroa / vuosi</option>
+                  <option value="yritykseen250">Yritykseen yli 250 kpl nippuina 139 euroa / vuosi</option>
                  </select>
               </div>
             </div>
